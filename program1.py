@@ -19,4 +19,4 @@ def fibo(n):
 
 print(fibo(100))
 print(fibo(200))
-print(fibo(20000000000))
+print(fibo(0))
