@@ -19,4 +19,8 @@ def fibo(n):
 
 print(fibo(100))
 print(fibo(200))
+<<<<<<< HEAD
+print(fibo(2))
+=======
 print(fibo(0))
+>>>>>>> 46b546202134f29bfa994067a7261658e6db2fec
