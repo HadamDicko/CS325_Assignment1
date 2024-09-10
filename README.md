@@ -1,2 +1,2 @@
 # CS325_Assignment1
-Assignment 1
+This file was already added with the repo launch
